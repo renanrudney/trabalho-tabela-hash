@@ -69,5 +69,3 @@ Telefone de Maria: 12345 (tempo de busca: 0.02 ms)
 
 - Para a função hash, você pode utilizar uma função simples, como a soma dos valores ASCII dos caracteres do nome, ou, para um desafio extra, uma função hash mais eficiente (por exemplo, a função `std::hash` em C++).
 - Teste o programa com diferentes tamanhos de tabela para observar o impacto de colisões e performance de busca.
-
-Boa prática e bons estudos sobre tabelas hash!
